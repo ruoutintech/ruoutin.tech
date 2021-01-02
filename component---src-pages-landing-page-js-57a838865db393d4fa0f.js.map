@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/landing-page.js"],"names":[],"mappings":"4FAAA,4CAGe,4BACb,kBAAC,UAAD","file":"component---src-pages-landing-page-js-57a838865db393d4fa0f.js","sourcesContent":["import React from \"react\";\nimport LandingPage from \"./LandingPage/LandingPage\";\n\nexport default () => (\n  <LandingPage/>\n);\n"],"sourceRoot":""}
