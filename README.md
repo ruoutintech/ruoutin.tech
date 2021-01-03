@@ -33,6 +33,20 @@
 - Material Kit React
 - Hosted on Github Pages
 
+## Local Development
+
+1. Clone repo to local device 
+3. Create a new development branch
+2. Download all required packages
+3. When developing run ```gatsby develop``` to start a live server on ```localhost:8000```
+4. After developing, run ```gatsby build; gatsby serve``` to build and serve the production code on ```localhost:9000```
+5. If all looks good, open a PR against ```Master```
+
+## Deployment 
+
+1. Merge ```Master``` into ```gh-pages```
+2. Run ```npm run deploy``` to deploy latest to Github Pages 
+
 ### Licenses & Credits ✉️
 <details>
   <summary><strong>Material Kit React Starter</strong></summary>
