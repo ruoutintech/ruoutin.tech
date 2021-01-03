@@ -1,14 +1,14 @@
-# ruoutin.tech
+# 🌈 ruoutin.tech 🌈
 
 <img alt="website-screenshot" src="https://github.com/ruoutintech/ruoutin.tech/blob/master/static/website-screenshot.png" />
 
-## Purpose
+## Purpose ❓❓
 
 - Point visitors to our mailing list
 - Give a detailed summary of who we are as a club
 - Provide users with a 'hub' to other relevant resources
 
-## Current State
+## Current State 😇
 
 - Single page with 'Call to Action' (mailing list) and short discription
 - Links to:
@@ -17,7 +17,7 @@
   * Instagram
   * Linkedin
 
-## To Do 
+## To Do ✍🏽
 
 - Add more pages/routes
   * About Us
@@ -25,7 +25,7 @@
   * Events (Calendar API preferably)
   * Etc
 
-## Tooling
+## Tooling ⚙️ 
 
 - Gatsby
 - React.JS
@@ -33,7 +33,7 @@
 - Material Kit React
 - Hosted on Github Pages
 
-### Licenses & Credits
+### Licenses & Credits ✉️
 <details>
   <summary><strong>Material Kit React Starter</strong></summary>
 
