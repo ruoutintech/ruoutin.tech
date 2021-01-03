@@ -1,5 +1,7 @@
 # ruoutin.tech
 
+<img alt="website-screenshot" src="https://github.com/ruoutintech/ruoutin.tech/blob/master/static/website-screenshot.png" />
+
 ## Purpose
 
 - Point visitors to our mailing list
