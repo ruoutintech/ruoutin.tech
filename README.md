@@ -28,6 +28,10 @@
 - Gatsby
 - React.JS
 - Material.UI
+- Material Kit React
+- Hosted on Github Pages
+
+### Licenses & Credits
 <details>
   <summary><strong>Material Kit React Starter</strong></summary>
 
@@ -41,4 +45,3 @@ Gatsby Material Kit React Starter is the adaptation of [Material Kit React](http
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWebCu%2Fgatsby-material-kit-react.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWebCu%2Fgatsby-material-kit-react?ref=badge_large)
 </details>
-- Hosted on Github Pages
