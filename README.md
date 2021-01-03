@@ -47,7 +47,7 @@
 1. Merge ```Master``` into ```gh-pages```
 2. Run ```npm run deploy``` to deploy latest to Github Pages 
 
-### Licenses & Credits ✉️
+## Licenses & Credits ✉️
 <details>
   <summary><strong>Material Kit React Starter</strong></summary>
 
