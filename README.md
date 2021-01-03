@@ -7,7 +7,7 @@ This is our website.
 Framework - Gatsby
 - React.JS
 - Material.UI
-<details>
+- <details>
   <summary><strong>Material Kit React Starter</strong></summary>
 
 # [Gatsby Material Kit React Starter](https://amazing-jones-e61bda.netlify.com/)
