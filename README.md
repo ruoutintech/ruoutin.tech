@@ -1,10 +1,31 @@
-### ruoutin.tech
+# ruoutin.tech
 
-This is our website.
+## Purpose
+
+- Point visitors to our mailing list
+- Give a detailed summary of who we are as a club
+- Provide users with a 'hub' to other relevant resources
+
+## Current State
+
+- Single page with 'Call to Action' (mailing list) and short discription
+- Links to:
+  * Slack
+  * Facebook
+  * Instagram
+  * Linkedin
+
+## To Do 
+
+- Add more pages/routes
+  * About Us
+  * Contact Us Page
+  * Events (Calendar API preferably)
+  * Etc
 
 ## Tooling
 
-Framework - Gatsby
+- Gatsby
 - React.JS
 - Material.UI
 <details>
@@ -20,4 +41,4 @@ Gatsby Material Kit React Starter is the adaptation of [Material Kit React](http
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWebCu%2Fgatsby-material-kit-react.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWebCu%2Fgatsby-material-kit-react?ref=badge_large)
 </details>
- 
+- Hosted on Github Pages
