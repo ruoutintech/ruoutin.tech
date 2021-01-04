@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/mini-gatsbyv2-material-kit-react`,
+  pathPrefix: `/`,
   siteMetadata: {
     title: "Rutgers Out In Tech Website",
     titleTemplate: "RUOIT",

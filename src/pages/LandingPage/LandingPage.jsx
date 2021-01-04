@@ -1,5 +1,4 @@
 import React from "react"
-import { Helmet } from "react-helmet"
 // nodejs library that concatenates classes
 import classNames from "classnames"
 // @material-ui/core components
@@ -21,6 +20,9 @@ import landingPageStyle from "assets/jss/material-kit-react/views/landingPage.js
 // Sections for this page
 import AboutSection from "./Sections/AboutSection.jsx"
 
+// Meta Tage
+import MetaTags from "../meta"
+
 const dashboardRoutes = []
 
 const headerBrand = "Rutgers Out In Tech"
@@ -32,15 +34,7 @@ class LandingPage extends React.Component {
     const { classes, ...rest } = this.props
     return (
       <div>
-        <Helmet>
-          <html lang="en" />
-          <meta charSet="utf-8"/>
-          <meta name="keywords" content="Rutgers, Out In Tech, RU, OIT, LGBTQ+, Gay, Queer, Ally, Club"/>
-          <meta name="description" content="Website for Rutgers Out In Tech Club"/>
-          <meta name="author" content="Hugo De Moraes"/>
-          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-          <link rel="canonical" href="https://ruoutin.tech/" />
-        </Helmet>
+        <MetaTags />
         <Header
           color="transparent"
           routes={dashboardRoutes}
