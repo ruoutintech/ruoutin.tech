@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/login-page.js"],"names":[],"mappings":"4FAAA,4CAGe,4BACb,kBAAC,UAAD","file":"component---src-pages-login-page-js-2c1f3495d3d23b110f87.js","sourcesContent":["import React from \"react\";\nimport LoginPage from \"./LoginPage/LoginPage\";\n\nexport default () => (\n  <LoginPage/>\n);\n"],"sourceRoot":""}
