@@ -4,8 +4,6 @@ import classNames from "classnames"
 // @material-ui/core components
 import withStyles from "@material-ui/core/styles/withStyles"
 
-// @material-ui/icons
-
 // core components
 import Header from "components/Header/Header.jsx"
 import Footer from "components/Footer/Footer.jsx"
@@ -19,6 +17,8 @@ import landingPageStyle from "assets/jss/material-kit-react/views/landingPage.js
 
 // Sections for this page
 import AboutSection from "./Sections/AboutSection.jsx"
+import InstagramSection from "./Sections/InstagramSection.jsx"
+import CalendarSection from './Sections/CalendarSection'
 
 // Meta Tage
 import MetaTags from "../meta"
@@ -65,6 +65,9 @@ class LandingPage extends React.Component {
         <div className={classNames(classes.main, classes.mainRaised)}>
           <div className={classes.container}>
             <AboutSection />
+            <CalendarSection />
+            {/* Todo: CSS, Investigate API rate limit */}
+            {/* <InstagramSection /> */}
           </div>
         </div>
         <Footer />
